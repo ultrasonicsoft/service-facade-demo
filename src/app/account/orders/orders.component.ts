@@ -8,8 +8,8 @@ import { FacadeService } from '../../common/services/facade.service';
 })
 export class OrdersComponent implements OnInit {
 
-  orderList:string;
-
+  orderList:string; 
+  
   constructor(private facadeService: FacadeService) { }
 
   ngOnInit() {

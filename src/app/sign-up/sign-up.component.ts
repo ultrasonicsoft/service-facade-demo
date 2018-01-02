@@ -8,7 +8,7 @@ import { FacadeService } from '../common/services/facade.service';
 })
 export class SignUpComponent implements OnInit {
 
-  isSignedUp:boolean;
+  isSignedUp:string;
 
   constructor(private facadeService: FacadeService) { }
 
