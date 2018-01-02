@@ -14,5 +14,4 @@ export class AddressComponent implements OnInit {
   ngOnInit() {
     this.address = this.facadeService.getAddress();
   }
-
 }

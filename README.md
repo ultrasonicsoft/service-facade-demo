@@ -1,5 +1,14 @@
 # Angular Service Facade Demo
 
+## Live demo
+
+http://ng-service-facade.surge.sh/
+
+## Blog link
+
+https://medium.com/@balramchavan/best-practices-building-angular-services-using-facade-design-pattern-for-complex-systems-d8c516cb95eb
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
 
 ## Development server

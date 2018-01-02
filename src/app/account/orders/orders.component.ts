@@ -15,5 +15,4 @@ export class OrdersComponent implements OnInit {
   ngOnInit() {
     this.orderList = this.facadeService.getOrderList();
   }
-
 }
